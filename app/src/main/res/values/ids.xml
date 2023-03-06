@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="searchEditText" type="id" />
+    <item name="lista_pelicula" type="id" />
+    <item name="titulo_pelicula" type="id" />
+    <item name="director" type="id" />
+</resources>

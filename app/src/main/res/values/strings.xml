@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">11.1ApiPeliculas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint">Introduce pelicula a buscar</string>
+    <string name="search_button">Buscar</string>
+    <string name="fragment_search">Busqueda de pelicula</string>
+    <string name="fragment_detail">Detalle de Pelicula</string>
+    <string name="volver">Volver</string>
+</resources>
